@@ -104,10 +104,10 @@ h3{
   text-align: center;
 }
 
-#projects .panel{
+#projects .pjpanel{
   transition: all 0.3s ease-out;
 }
-#projects panel:hover{
+.pjpanel:hover{
   transform: translateY(-20px);
 }
 
