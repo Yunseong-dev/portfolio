@@ -107,7 +107,7 @@ h3{
 #projects .panel{
   transition: all 0.3s ease-out;
 }
-.panel:hover{
+#projects panel:hover{
   transform: translateY(-20px);
 }
 
