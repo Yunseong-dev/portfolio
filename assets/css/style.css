@@ -321,6 +321,9 @@ h3{
 .panel-footer > div{
   display:inline;
 }
+.mrt{
+  margin-top: 20px;
+}
 
 .line{
   color: rgb(173, 173, 173);
@@ -349,6 +352,8 @@ h3{
 .flask{
   color: #bfbfbf;
 }
+
+
 
 
 
